@@ -26,7 +26,7 @@
 #
 # Richard Gast and Daniel Rose et. al. in preparation
 """
-Torch-based backend. Contains all torch-based internaö function definitions and links to torch functions.
+tinygrad-based backend. Contains all tiny-based internaö function definitions and links to tiny functions.
 """
 
 from .tiny_backend import TinyBackend
